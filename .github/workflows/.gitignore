@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data and outputs (do NOT commit CSVs)
+data/
+*.csv
+*.xlsx
+notebooks/.ipynb_checkpoints/
+
+# VSCode
+.vscode/
